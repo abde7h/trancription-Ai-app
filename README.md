@@ -1,6 +1,4 @@
-# trancription-Ai-app
-
-# Whisper App
+# transcription-Ai-app
 
 Whisper App is a simple web application built with Streamlit that uses the Whisper ASR (Automatic Speech Recognition) model to transcribe audio files. This README provides an overview of the application and instructions on how to use it.
 
@@ -14,3 +12,4 @@ Before running the application, make sure you have the required Python packages 
 
 ```bash
 pip install streamlit whisper
+```
